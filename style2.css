@@ -1,0 +1,33 @@
+
+@media(max-width:600px) {
+
+    .primary-CRT {width: 100%;}
+  }
+  @media(max-width:600px) {
+    .primary-crt2 {width:100%}
+    
+  }
+  @media(max-width:600px) {
+  .primary-companies {width:100%}
+}
+@media(max-width:600px) {
+
+  .primary-contact {width: 100%;}
+}
+
+u h1{
+  text-shadow: 2px 2px 2px  white;
+}
+u h2{
+  text-shadow: 2px 2px 2px white;
+}
+
+
+
+
+section .video{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
